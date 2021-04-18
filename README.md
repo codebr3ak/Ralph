@@ -6,14 +6,14 @@
 </p>
 <p align='center'>   
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brian-wanjala-324b57180/">
+  <a href="https://www.linkedin.com/in/baraka-ralph-62b369205/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/wanjiii_">
+  <a href="https://www.instagram.com/sir_ralph4/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://wa.me/+254716304035?text=Hi!%20Brian...">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+  <!-- <a href="https://wa.me/+254716304035?text=Hi!%20Brian...">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />  -->
   
 </p>
 
@@ -65,3 +65,4 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 </p>
+  
