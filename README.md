@@ -66,7 +66,7 @@
 <!-- ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
 </p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tridence&count_private=true&show_icons=true&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=tridence&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tridence&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tridence.tridence) -->
