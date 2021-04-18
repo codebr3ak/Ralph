@@ -1,7 +1,26 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi! 👋 codebr3ak 👨‍💻
+</h1>
+<p align='center'>
+  Software Developer Nairobi, Kenya.
+</p>
+<p align='center'>   
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brian-wanjala-324b57180/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/wanjiii_">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://wa.me/+254716304035?text=Hi!%20Brian...">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+  
+</p>
+
+
 - 🔭 I’m currently working on creating apps with Python
 - 🌱 I’m currently learning \\ Python
-- 👯 I’m looking to collaborate on small, long term projects
+
 - 💬 Ask me about: The world, Conspiracy theories, African culture; basically, lets talk.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
