@@ -68,6 +68,5 @@
   <a href="https://www.instagram.com/sir_ralph4/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <!-- <a href="https://wa.me/+254716304035?text=Hi!%20Brian...">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />  -->
+  <a href="https://twitter.com/codebr3ak" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
