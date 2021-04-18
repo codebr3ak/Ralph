@@ -4,19 +4,6 @@
 <p align='center'>
   Software Developer Nairobi, Kenya.
 </p>
-<p align='center'>   
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/baraka-ralph-62b369205/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/sir_ralph4/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <!-- <a href="https://wa.me/+254716304035?text=Hi!%20Brian...">
-    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />  -->
-  
-</p>
-
 
 - 🔭 I’m currently working on creating apps with Python
 - 🌱 I’m currently learning \\ Python
@@ -72,3 +59,15 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=codebreak.codebr3ak) 
 
 <!-- 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 token id-->
+<h3>Reach me here</h3>
+<p align='center'>   
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/baraka-ralph-62b369205/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/sir_ralph4/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <!-- <a href="https://wa.me/+254716304035?text=Hi!%20Brian...">
+    <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />  -->
+</p>
