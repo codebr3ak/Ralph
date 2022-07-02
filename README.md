@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on creating apps with Python
 - 🌱 I’m currently learning \\ Python
 
-- 💬 Ask me about: The world, Conspiracy theories, African culture; basically, lets talk.
+- 💬 Ask me about: The world & Conspiracy theories.
 
 <p >
   💻 Workspace<br/><br/>
